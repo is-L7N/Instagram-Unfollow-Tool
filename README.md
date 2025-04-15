@@ -57,8 +57,13 @@ python3 unfollow.py
 ```bash
 [*] Choose : 2
 [※] Your Token (Instagram) : Bearer IGT:2:...
-[✓] Done UnFollow : user1   ~ id : 123456789
-[✓] Done UnFollow : user2   ~ id : 987654321
+
+[※] All Following : 4
+
+[✓] Done UnFollow : realmadrid   ~ id : 290023231
+[✓] Done UnFollow : fcbarcelona   ~ id : 260375673
+[✓] Done UnFollow : leomessi   ~ id : 427553890
+[✓] Done UnFollow : cristiano   ~ id : 173560420
 ```
 
 ---
